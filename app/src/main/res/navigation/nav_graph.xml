@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/nav_graph"
+            app:startDestination="@id/mainActivity">
+
+    <activity android:id="@+id/mainActivity" android:name="com.team8.locky.MainActivity" android:label="activity_main"
+              tools:layout="@layout/activity_main"/>
+    <activity android:id="@+id/mainMenu" android:name="com.team8.locky.MainMenu" android:label="main_menu_activity"
+              tools:layout="@layout/main_menu_activity"/>
+    <activity android:id="@+id/lockyMenu" android:name="com.team8.locky.LockyMenu" android:label="activity_locky_menu"
+              tools:layout="@layout/activity_locky_menu"/>
+</navigation>

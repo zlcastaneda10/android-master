@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "669538841390",
+    "firebase_url": "https://proyectomoviles-64a71.firebaseio.com",
+    "project_id": "proyectomoviles-64a71",
+    "storage_bucket": "proyectomoviles-64a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669538841390:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669538841390-brj661uptt7t8mkjje003r39c9d0eo0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.database",
+            "certificate_hash": "98f72241e7b28f5ee4ba7c118f501f436b2d0259"
+          }
+        },
+        {
+          "client_id": "669538841390-8540vi5ca7np9u6n46vj0r4pjc37jemt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOS3_nTnplKXJtJMkS65XDmgPZnnaA7NE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669538841390-8540vi5ca7np9u6n46vj0r4pjc37jemt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669538841390-qahfa70540u3etfk2fes1ckgrpdfoivs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Team8.Locky"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669538841390:android:e43823b03aaeb947",
+        "android_client_info": {
+          "package_name": "com.team8.locky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669538841390-3etdft7d16hj465jji0rtesngqc0rcjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team8.locky",
+            "certificate_hash": "98f72241e7b28f5ee4ba7c118f501f436b2d0259"
+          }
+        },
+        {
+          "client_id": "669538841390-fd93elrq586r4dff2anich264v84nogf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team8.locky",
+            "certificate_hash": "060444e89fa4cf7aa8f3d7a8bc74ced64b504a03"
+          }
+        },
+        {
+          "client_id": "669538841390-gf2pof9hue01jvd3bdo4pf0bg8q7r14s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team8.locky",
+            "certificate_hash": "b13ad8ed707ace461812f3343c17227ed69d3103"
+          }
+        },
+        {
+          "client_id": "669538841390-27c25ona12jokj9hkfoium85visvqe35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team8.locky",
+            "certificate_hash": "7d9e51619dfa6a0c514c0af23c729cfd8eaece59"
+          }
+        },
+        {
+          "client_id": "669538841390-2i5gnrq6ghspcvb2f1n9vok7ta4r54jm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team8.locky",
+            "certificate_hash": "36a08be68589875f7982cc778703087f7183794a"
+          }
+        },
+        {
+          "client_id": "669538841390-6miejt5lh48fi1oalpgtur04e519e8pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team8.locky",
+            "certificate_hash": "ca41757e2c27d766ba2bb781892b6ccabc503f2e"
+          }
+        },
+        {
+          "client_id": "669538841390-8540vi5ca7np9u6n46vj0r4pjc37jemt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOS3_nTnplKXJtJMkS65XDmgPZnnaA7NE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669538841390-8540vi5ca7np9u6n46vj0r4pjc37jemt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669538841390-qahfa70540u3etfk2fes1ckgrpdfoivs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Team8.Locky"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

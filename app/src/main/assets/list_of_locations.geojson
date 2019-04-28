@@ -1,0 +1,89 @@
+{
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -74.065716, 4.602986 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "description" : "Location #1 description",
+      "hours" : "24 Horas",
+      "image" : "",
+      "locality" : "Localidad1",
+      "maxFare" : "4000 COP",
+      "minFare" : "2000 COP",
+      "name" : "Parque Germania",
+      "phone" : "(555) 555-9430",
+      "type" : "Parque"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.066159, 4.602743 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "description" : "Location #2 description",
+      "hours" : "6AM - 8PM",
+      "image" : "",
+      "locality" : "Localidad2",
+      "maxFare" : "5000 COP",
+      "minFare" : "3000 COP",
+      "name" : "Edificio Aulas",
+      "phone" : "(555) 555-9430",
+      "type" : "Universidad"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.068253, 4.597693 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "description" : "Location #3 Description",
+      "hours" : "24 Horas",
+      "image" : "",
+      "locality" : "Localidad3",
+      "maxFare" : "4000 COP",
+      "minFare" : "2000 COP",
+      "name" : "Parque La Candelaria",
+      "phone" : "(555) 555-9430",
+      "type" : "Parque"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.068297, 4.611391 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "description" : "Localidad #4 description",
+      "hours" : "8AM - 6PM",
+      "image" : "",
+      "locality" : "Localidad4",
+      "maxFare" : "3000 COP",
+      "minFare" : "1000 COP",
+      "name" : "Panaderia Doña Blanca",
+      "phone" : "(555) 555-9430",
+      "type" : "Panaderia"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.066558, 4.602481 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "description" : "Location #5 description",
+      "hours" : "7AM - 9PM",
+      "image" : "",
+      "locality" : "Localidad5",
+      "maxFare" : "5000 COP",
+      "minFare" : "2000 COP",
+      "name" : "Print & Copy Papeleria",
+      "phone" : "(555) 555-9430",
+      "type" : "Papeleria"
+    },
+    "type" : "Feature"
+  } ],
+  "type" : "FeatureCollection"
+}
